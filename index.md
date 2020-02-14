@@ -1,4 +1,4 @@
-title: Markdown Style Guide
+# My Markdown Style Guide
 ---
 
 ## Welcome to GitHub Pages
